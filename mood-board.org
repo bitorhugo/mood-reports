@@ -1,0 +1,40 @@
+#+title: Mood Report
+#+author: Vitor Hugo
+#+date: <2023-09-03 Sun>
+
+
+
+* Template
+
+| Task name   | Evaluation |
+|-------------+------------|
+| First Task  |          7 |
+| Second Task |          5 |
+| Third Task  |          2 |
+| ...         |        ... |
+
+
+
+* Mood Scale Interpretation
+
+A mood evaluation is the representation of your mood swings over the week.
+It may be represented as a numeral (e.g. *7*) from 1 to 10 or it can be more descriptive (e.g. *neutral*, *stressed*, *happy*, *motivated*, ...).
+A small description can be added to each task to write down some personal thoughts of how or why you ended up feeling the way you did. Remeber,
+not all emotions are bad! You may feel motivated while doing some task and may share information about why you felt that way.
+
+* Examples
+
+| Task name                        | Evaluation |
+|----------------------------------+------------|
+| LISP study                       |          [[LISP study][8]] |
+| Meeting with 'X' about 'Y' topic |          5 |
+| Fixing bug /foo/ in system /bar/ |          [[Fixing bug /foo/ in system /bar/][2]] |
+
+* Mood Evaluation Descriptions
+
+** LISP study
+Felt motivated during the past week, finally have some understanding of macro evaluation rules.
+
+** Fixing bug /foo/ in system /bar/
+Disliked no being able to understand why and/or how the bug occurs. Couldn't come up with a solution in expected time.
+
