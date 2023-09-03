@@ -28,13 +28,13 @@ not all emotions are bad! You may feel motivated while doing some task and may s
 |----------------------------------+------------|
 | LISP study                       |          [[LISP study][8]] |
 | Meeting with 'X' about 'Y' topic |          5 |
-| Fixing bug /foo/ in system /bar/ |          [[Fixing bug /foo/ in system /bar/][2]] |
+| Fixing bug foo in system bar     |          [[Fixing bug foo in system bar][2]] |
 
 * Mood Evaluation Descriptions
 
 ** LISP study
 Felt motivated during the past week, finally have some understanding of macro evaluation rules.
 
-** Fixing bug /foo/ in system /bar/
+** Fixing bug foo in system bar
 Disliked no being able to understand why and/or how the bug occurs. Couldn't come up with a solution in expected time.
 
